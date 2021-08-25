@@ -1,5 +1,5 @@
 # Javascript_deepdive
-1장[변수](https://github.com/kyunghyunHan/Javascript_deepdive/blob/9a44946efb2810f94ecbdf962c72023395d806c3/st1/Variable.js)
+💯1장[변수](https://github.com/kyunghyunHan/Javascript_deepdive/blob/9a44946efb2810f94ecbdf962c72023395d806c3/st1/Variable.js)
 --
 2장[표현식과 문](https://github.com/kyunghyunHan/Javascript_deepdive/blob/c36547fa53462e0cce49ace9e9e9f86f68049941/st1/expression.js)
 --
