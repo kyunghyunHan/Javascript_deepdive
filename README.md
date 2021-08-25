@@ -1,7 +1,7 @@
 # Javascript_deepdive
 [변수](https://github.com/kyunghyunHan/Javascript_deepdive/blob/9a44946efb2810f94ecbdf962c72023395d806c3/st1/Variable.js)
 --
-[함수]()
+[함수](https://github.com/kyunghyunHan/Javascript_deepdive/blob/b7962d3ad359ca18a4c6a4d833182d1ddeec411f/st1/function.js)
 --
 []()
 []()
