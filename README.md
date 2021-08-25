@@ -1,5 +1,5 @@
 # Javascript_deepdive
-[변수]()
+[변수](https://github.com/kyunghyunHan/Javascript_deepdive/blob/9a44946efb2810f94ecbdf962c72023395d806c3/st1/Variable.js)
 --
 [함수]()
 --
