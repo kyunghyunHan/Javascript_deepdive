@@ -23,9 +23,9 @@
 --
 12장[ let, const 키워드와 블록 레벨 스코프](https://github.com/kyunghyunHan/Javascript_deepdive/blob/c36547fa53462e0cce49ace9e9e9f86f68049941/st1/letconst.js)
 --
-13장[프로퍼티 어트리뷰트]()
+13장[프로퍼티 어트리뷰트](https://github.com/kyunghyunHan/Javascript_deepdive/blob/daa5469a55bd7ee88473a2c42faad7948ba44cde/st1/internalmethod.js)
 --
-14장[생성자 함수에 의한 객체 생성]()
+14장[생성자 함수에 의한 객체 생성](https://github.com/kyunghyunHan/Javascript_deepdive/blob/daa5469a55bd7ee88473a2c42faad7948ba44cde/st1/object2.js)
 --
 15장[함수와 일급 객체]()
 --
