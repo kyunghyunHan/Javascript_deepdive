@@ -37,7 +37,7 @@
 --
 19장[this](https://github.com/kyunghyunHan/Javascript_deepdive/blob/e20ec03fa4d11f9c016ac0f02ce914d65b7d55be/st1/this.js)
 --
-20장[실행 컨텍스트]()
+20장[실행 컨텍스트](https://github.com/kyunghyunHan/Javascript_deepdive/blob/5bc45b65d0f65357226c721316acefe6bdb28157/st1/execution.js)
 --
 21장[클로저]()
 --
