@@ -27,11 +27,11 @@
 --
 14장[생성자 함수에 의한 객체 생성](https://github.com/kyunghyunHan/Javascript_deepdive/blob/daa5469a55bd7ee88473a2c42faad7948ba44cde/st1/object2.js)
 --
-15장[함수와 일급 객체]()
+15장[함수와 일급 객체](https://github.com/kyunghyunHan/Javascript_deepdive/blob/a73092ebdc693ee9ac0382e54a768b7b5d90b9bd/st1/1stobj.js)
 --
-16장[프로토타입]()
+16장[프로토타입](https://github.com/kyunghyunHan/Javascript_deepdive/blob/a73092ebdc693ee9ac0382e54a768b7b5d90b9bd/st1/prototype.js)
 --
-17장[strict mode]()
+17장[strict mode](https://github.com/kyunghyunHan/Javascript_deepdive/blob/a73092ebdc693ee9ac0382e54a768b7b5d90b9bd/st2/strict%20mode.js)
 --
 18장[빌트인 객체]()
 --
@@ -39,7 +39,7 @@
 --
 20장[실행 컨텍스트](https://github.com/kyunghyunHan/Javascript_deepdive/blob/5bc45b65d0f65357226c721316acefe6bdb28157/st1/execution.js)
 --
-21장[클로저]()
+21장[클로저](https://github.com/kyunghyunHan/Javascript_deepdive/blob/a73092ebdc693ee9ac0382e54a768b7b5d90b9bd/st2/closure.js)
 --
 22장[클래스]()
 --
