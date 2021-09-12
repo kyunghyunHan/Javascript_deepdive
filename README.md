@@ -33,7 +33,7 @@
 --
 17장[strict mode](https://github.com/kyunghyunHan/Javascript_deepdive/blob/a73092ebdc693ee9ac0382e54a768b7b5d90b9bd/st2/strict%20mode.js)
 --
-18장[빌트인 객체]()
+18장[빌트인 객체](https://github.com/kyunghyunHan/Javascript_deepdive/blob/dba38c2e58f4161b300da2de62e1960e567173b8/st2/builtin.js)
 --
 19장[this](https://github.com/kyunghyunHan/Javascript_deepdive/blob/e20ec03fa4d11f9c016ac0f02ce914d65b7d55be/st1/this.js)
 --
